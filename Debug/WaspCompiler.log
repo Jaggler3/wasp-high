@@ -1,0 +1,8 @@
+﻿  Sequence.cpp
+c:\users\marti\desktop\c++ projects\wasp\compiler.h(25): warning C4091: 'static ': ignored on left of 'Compiler::CD' when no variable is declared
+c:\users\marti\desktop\c++ projects\wasp\compiler.h(28): warning C4091: 'static ': ignored on left of 'Compiler' when no variable is declared
+c:\users\marti\desktop\c++ projects\wasp\sequence.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\c++ projects\wasp\sequence.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\marti\desktop\c++ projects\wasp\sequence.cpp(73): warning C4018: '<': signed/unsigned mismatch
+  WaspCompiler.vcxproj -> C:\Users\marti\Desktop\C++ Projects\Wasp\Debug\WaspScript.exe
+  WaspCompiler.vcxproj -> C:\Users\marti\Desktop\C++ Projects\Wasp\Debug\WaspScript.pdb (Partial PDB)
